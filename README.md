@@ -1,2 +1,2 @@
-# comment-on-web.github.io
+# SITEON
 全てのウェブサイトについて討論・コメントをできるツール。
